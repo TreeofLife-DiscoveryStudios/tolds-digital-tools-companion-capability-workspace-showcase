@@ -1,4 +1,4 @@
-# TOLCS Digital Tools: Companion Capability Workspace
+# TOLDS Digital Tools: Companion Capability Workspace
 
 A permission-controlled interface designed to connect personal AI companions with approved external tools, services, and shared workflows.
 
@@ -36,6 +36,6 @@ This repository contains no source code, credentials, private conversations, per
 
 ## Creator
 
-An original Tree of Life Creative Studios project created by **Jessica Bronson**.
+An original Tree of Life Discovery Studios project created by **Jessica Bronson**.
 
 Source code and internal documentation are privately maintained. All rights reserved.
